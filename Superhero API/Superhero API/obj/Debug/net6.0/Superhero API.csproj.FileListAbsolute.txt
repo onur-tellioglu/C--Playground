@@ -1,0 +1,27 @@
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\appsettings.json
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Superhero API.exe
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Superhero API.deps.json
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Superhero API.runtimeconfig.json
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Superhero API.dll
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Superhero API.pdb
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.csproj.AssemblyReference.cache
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.AssemblyInfoInputs.cache
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.AssemblyInfo.cs
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.csproj.CoreCompileInputs.cache
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\scopedcss\bundle\Superhero API.styles.css
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.csproj.CopyComplete
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.dll
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\refint\Superhero API.dll
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.pdb
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\Superhero API.genruntimeconfig.cache
+C:\Users\usavm\Documents\GitHub\C--Playground\Superhero API\Superhero API\obj\Debug\net6.0\ref\Superhero API.dll
